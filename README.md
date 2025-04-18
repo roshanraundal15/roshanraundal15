@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan  Raundal</h1>
-<h3 align="center">Innovative and driven Computer Science Engineer specializing in Cloud Security, Blockchain, DevOps, and Al. Passionate about designing scalable and secure systems that leverage cutting-edge technologies. Proven experience in building decentralized applications and optimizing cloud-native and Al ecosystems. .</h3>
+<h3 align="center">Aspiring Computer Science Engineer | Python & JavaScript Developer | Blockchain Enthusiast | Cloud & Security Learner | Passionate about Building Scalable Tech Solutions .</h3>
 
 - 🔭 I’m currently working on **Secured QuickShare on Cloud using Blockchain**
 
