@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan  Raundal</h1>
 <h3 align="center">Aspiring Computer Science Engineer | Python & JavaScript Developer | Blockchain Enthusiast | Cloud & Security Learner | Passionate about Building Scalable Tech Solutions .</h3>
 
-I'm a passionate Cse student with a strong interest in cloud computing, cybersecurity, blockchain, and AI-driven solutions. I enjoy building practical, real-world projects that solve meaningful problems, with a focus on scalability, performance, and clean design. My skill set includes Python, JavaScript, React.js, Node.js, MySQL, and emerging tech like Solidity and FastAPI. I approach every project with a blend of logic, creativity, and execution-focused discipline, constantly pushing beyond limits to deliver results that matter.
+I'm a passionate Cse student with a strong interest in AI-ML driven solutions, cloud computing, blockchain. I enjoy building practical, real-world projects that solve meaningful problems, with a focus on scalability, performance, and clean design. My skill set includes Python, JavaScript, React.js, Node.js, MySQL, and emerging tech like Solidity and FastAPI. I approach every project with a blend of logic, creativity, and execution-focused discipline, constantly pushing beyond limits to deliver results that matter.
 
 - 👯 I’m looking to collaborate on **AI and Cloud Native projects**
 
